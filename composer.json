@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "TrungBanh\\HelloWorld\\": "src/"
+            "TrungBanh\\DemoModule\\": "src/"
         }
     },
     "authors": [
