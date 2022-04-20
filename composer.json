@@ -1,0 +1,19 @@
+{
+    "name": "trungbanh/demomodule",
+    "description": "My first packagist package",
+    "type": "package",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "TrungBanh\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trungbanh",
+            "email": "trungbanh97@gmail.com"
+        }
+    ]
+}
