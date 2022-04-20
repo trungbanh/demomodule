@@ -1,0 +1,19 @@
+{
+    "name": "banhtrung/demomodule",
+    "description": "this is demo package",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trungbanh",
+            "email": "trungbanh97@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
